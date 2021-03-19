@@ -1,8 +1,8 @@
 # The-Sparks-Foundation-Task
 
-Stock Market Prediction using
+<h1><b>Stock Market Prediction using
 Numerical and Textual Analysis
-
+</b></h1>
 
 ● Objective: Create a hybrid model for stock price/performance
 prediction using numerical analysis of historical stock prices, and
